@@ -1,13 +1,4 @@
 
-//mine
-
-/**
- * Lab 2: Debugging with Eclipse and Red Black Tree) <br />
- * The {@code RedBlackTree} class of integers only <br />
- * Reference: <a href="https://en.wikipedia.org/wiki/Red%E2%80%93black_tree">
- *              https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
- *            </a>
- */
 public class RedBlackTree {
 	
 	
